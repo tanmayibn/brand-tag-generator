@@ -1,14 +1,7 @@
 # Copykitt: Tutorial Project
 
-This is a SaaS application that generates AI branding snippets and keywords for the customer's brand. 
-It is a full stack application, and created as a tutorial for how to create AI driven full-stack
-SaaS apps.
-
-## Examples
-
-
-![copykitt_results_image](./images/copykitt_results.png)
-
+This is a SaaS(software as sevice) application that generates AI branding snippets and keywords for the customer's brand. 
+It is a full stack application.
 
 ## Tech Stack
 
