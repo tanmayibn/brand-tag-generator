@@ -1,4 +1,4 @@
-# Copykitt: Tutorial Project
+# Brand Tag Generator
 
 This is a SaaS(software as sevice) application that generates AI branding snippets and keywords for the customer's brand. 
 It is a full stack application.
