@@ -25,6 +25,6 @@ It is a full stack application.
 
 
 
-## Contributors
+## Contributor
 
 - Tanmay Kumbhare
